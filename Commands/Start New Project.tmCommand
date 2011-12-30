@@ -50,7 +50,7 @@ echo '&lt;?xml version="1.0" encoding="UTF-8"?&gt;
         &lt;members&gt;*&lt;/members&gt;
         &lt;name&gt;ApexTrigger&lt;/name&gt;
     &lt;/types&gt;
-    &lt;version&gt;22.0&lt;/version&gt;
+    &lt;version&gt;23.0&lt;/version&gt;
 &lt;/Package&gt;' &gt; 'package.xml'
 
 echo 'username=DEVUSER
