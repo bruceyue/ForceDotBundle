@@ -1,1 +1,11 @@
-<apex:page></apex:page>
+<apex:page controller="" tabStyle="" showHeader="">
+	<script>
+	</script>
+	<style type="text/css">
+	</style>
+	<apex:sectionHeader title="" subTitle="" />
+    <apex:pageMessages />
+	<apex:form>
+
+    </apex:form>	
+</apex:page>
